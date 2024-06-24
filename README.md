@@ -12,4 +12,4 @@
 
 - 👨‍💻 Junior Data Architect at [Intelbras](https://intelbras.com.br)
 - 🎓 I.S. undergraduated student at [Universidade Federal de Santa Catarina](https://ufsc.br)
-- ⚙️ Pipeline developer focused on GCP
+- ⚙️ ETL developer focused on GCP
