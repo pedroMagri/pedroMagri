@@ -10,6 +10,6 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
 
-- 👨‍💻 Junior Data Architect at [Intelbras](https://intelbras.com.br)
+- 👨‍💻 Junior Data Engineer at [Amaris](https://amaris.com)
 - 🎓 I.S. undergraduated student at [Universidade Federal de Santa Catarina](https://ufsc.br)
 - ⚙️ ETL developer focused on GCP
